@@ -81,6 +81,10 @@ src/
 ## 📃 License
 
 This project is open source and free to use.
-![image](https://github.com/user-attachments/assets/adb60aba-22cf-4e39-aba9-9dcfa5862891)
-![image](https://github.com/user-attachments/assets/69305e31-be1e-437d-8270-2f842637e228)
+## Mobilw View
+![image](https://github.com/user-attachments/assets/935ed4a3-adcf-4e6f-9326-2dd0debb99c7)
+## Desktop View
+![image](https://github.com/user-attachments/assets/b1b5ec69-ddab-4539-a24a-80920808ed1b)
+
+
 
