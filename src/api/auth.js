@@ -5,11 +5,11 @@ export async function registerUser() {
     method: "POST",
     headers: { "Content-Type": "application/json" },
     body: JSON.stringify({
-      email: "your.email@domain.com",
-      name: "Your Name",
-      mobileNo: "9876543210",
-      githubUsername: "yourgithub",
-      rollNo: "yourroll",
+      email: "ramkrishna@abc.edu",
+      name: "Ram Krishna",
+      mobileNo: "9999999999",
+      githubUsername: "github",
+      rollNo: "aa1bb",
       accessCode: "YtvpyJ"
     }),
   });
@@ -26,9 +26,9 @@ export async function getToken(clientID, clientSecret) {
     method: "POST",
     headers: { "Content-Type": "application/json" },
     body: JSON.stringify({
-      email: "your@email.com",
-      name: "Your Name",
-      rollNo: "yourroll",
+      email: "ramkrishna@abc.edu",
+      name: "Ram Krishna",
+      rollNo: "aa1bb",
       accessCode: "YtvpyJ",
       clientID,
       clientSecret,
