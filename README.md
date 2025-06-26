@@ -81,7 +81,7 @@ src/
 ## 📃 License
 
 This project is open source and free to use.
-## Mobilw View
+## Mobile View
 ![image](https://github.com/user-attachments/assets/935ed4a3-adcf-4e6f-9326-2dd0debb99c7)
 ## Desktop View
 ![image](https://github.com/user-attachments/assets/b1b5ec69-ddab-4539-a24a-80920808ed1b)
